@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: ProKeybinds
+## Author: Sojik
+## Version: 1.0
+## Notes: Lightweight keybinding UI for spells, items and macros. /prokeybinds
+## SavedVariablesPerCharacter: ProKeybinds
+
+ProKeybinds.lua
